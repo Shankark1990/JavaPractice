@@ -1,4 +1,4 @@
-package series;
+package numbers;
 
 public class PrintNumbers {
 
