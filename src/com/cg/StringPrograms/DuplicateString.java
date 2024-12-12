@@ -11,6 +11,8 @@ public class DuplicateString {
 		String str = new String("SakkettABSeSA");
 		int count=0;
 		
+		
+		
 		char[] chars=str.toCharArray();
 		System.out.println("Duplicate Characters are: ");
 		
@@ -26,7 +28,6 @@ public class DuplicateString {
 				}
 			}
 		}
-		
 
 	}
 
