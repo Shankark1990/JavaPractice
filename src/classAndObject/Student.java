@@ -1,4 +1,4 @@
-package pavanKumar.classandobject;
+package classAndObject;
 
 public class Student {
 	

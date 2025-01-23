@@ -1,4 +1,4 @@
-package pavanKumar.classandobject;
+package classAndObject;
 
 // Creating main class to call the method in another class using creating object of that class.
 
